@@ -22,7 +22,6 @@
   "editor.minimap.maxColumn": 80,
   "editor.minimap.renderCharacters": false,
   "editor.minimap.showSlider": "always",
-  "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "all",
   "editor.scrollBeyondLastLine": false,
@@ -35,5 +34,14 @@
   "editor.accessibilitySupport": "off",
   "editor.autoIndent": "full",
   "editor.bracketPairColorization.enabled": true,
-  "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 13,
+  "workbench.colorTheme": "Dracula Soft",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.editor.wrapTabs": true,
+  "workbench.editor.pinnedTabsOnSeparateRow": true
 }
