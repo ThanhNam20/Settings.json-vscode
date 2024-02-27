@@ -39,7 +39,6 @@
   "workbench.iconTheme": "vscode-icons",
   "editor.fontSize": 13,
   "workbench.colorTheme": "Dracula Soft",
-  "editor.multiCursorModifier": "ctrlCmd",
   "workbench.editor.enablePreview": false,
   "workbench.editor.showTabs": "multiple",
   "workbench.editor.wrapTabs": true,
